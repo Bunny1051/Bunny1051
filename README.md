@@ -1,4 +1,4 @@
-### Hello guys, Binni Saxena here.... 👋
+Binni saxena here.... 👋
 
 <!--
 **Bunny1051/Bunny1051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

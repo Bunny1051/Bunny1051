@@ -1,5 +1,5 @@
 Binni saxena here.... 👋
-
+<img src="relative/path/in/repository/to/image.svg" width="128"/>
 <!--
 **Bunny1051/Bunny1051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

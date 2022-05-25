@@ -3,7 +3,7 @@ Binni saxena here.... 👋
 <img src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif" width="128"/>
 <img src="https://thumbs.gfycat.com/ApprehensiveDrearyCaimanlizard-size_restricted.gif" width="128"/>
 <img src="https://i.pinimg.com/originals/b8/2a/53/b82a536b3225a722e3bb421d47ecb41c.gif" width="128"/>
-<img src="https://www.edureka.co/blog/wp-content/uploads/2015/06/Angular_JS_blog_Giff.gif" width="128"/>
+<img src="https://www.aceinfoway.com/blog/wp-content/uploads/2020/12/Migration-from-AngularJS-to-Angular.gif" width="128"/>
 
 
 <!--

@@ -5,7 +5,6 @@
 - *Specializes in **front-end development***
 - ***Open-source** enthusiast*
 - *Trying and **exploring** new stuff*
-#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
 
   
 

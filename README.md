@@ -6,5 +6,12 @@
 - ***Open-source** enthusiast*
 - *Trying and **exploring** new stuff*
 
+ <h2 align="center">Tools & Technologies ⚡</h2>
+ <p align="center">
+  <a href="https://anuphaldar.com">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,redux,vue,nodejs,express,mongodb,typescript,git" />
+  </a>
+</p>
+
   
 

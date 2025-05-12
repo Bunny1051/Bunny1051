@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Bunny1051/Bunny1051/blob/main/Binni%20Kumari%20(1).png?raw=true" alt="banner that says Binni Kumari - software engineer, content creator and community organizer alongside a cartoon illustration of Binni">
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+Results-driven Software Engineer with 4+ years of expertise in MEAN and MERN stack development, as well as mobile app development. Demonstrated success in leading projects, delivering robust solutions, and driving team performance. Passionate about writing clean, efficient code and continuously staying ahead of industry advancements. Let's connect and discuss how I can add value to your team and contribute to your next successful project!
 
 
 ## About Me 🙂
